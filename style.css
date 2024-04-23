@@ -79,9 +79,15 @@ img{
     .immagini{
         display: grid;
         grid-template-columns: 1fr 1fr;
-        margin-left: 100px;
+        margin-left: 50px;
+        row-gap: 1rem;
+        margin-bottom: 2rem;
     }
     img,.jujutsu img, .totoro img{
-        width: 5rem;
+      width: 8rem;
+    }
+    .jujutsu, .totoro,.jupiter,.saturn{
+        display: flex;
+
     }
 }
