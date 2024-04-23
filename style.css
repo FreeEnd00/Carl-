@@ -28,6 +28,7 @@ h1,#dedica{
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-top: 0.2rem;
 }
 .titCont img{
     width: 8rem;
